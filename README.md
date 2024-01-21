@@ -9,11 +9,11 @@ En mi formación académica he tenido la oportunidad de enfrentarme a proyectos 
 
 -Lenguajes de programación mas demandados (SQL, Python, Java, C++/C) :dizzy:
 
--Habilidades con CRMs como Salesforce
+-Habilidades con CRMs como Salesforce :mechanical_arm:
 
--Conocimientos de desarrollo y almacenamiento en la nube
+-Conocimientos de desarrollo y almacenamiento en la nube :star2:
 
--Procesamiento y Análisis de datos
+-Procesamiento y Análisis de datos :rainbow:
 
 
 <br>
