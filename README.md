@@ -1,19 +1,20 @@
 <div align="center">
-<h1 align="center">Hola, soy Miguel Escribano 👋</h1>
+<h1 align="center">Hello, I am Miguel Escribano 👋</h1>
 </div>
 <img src="https://i.imgur.com/c7GmAJf.png">
 
-## Sobre mi
-Desde que era pequeño he tenido bastante interés en el mundo de la informática y de las TIC, soy estudiante de Ingeniería de Sistemas de Información, con conocimientos en Salesforce y BigData.
-En mi formación académica he tenido la oportunidad de enfrentarme a proyectos relacionados con las tecnologías más demandadas de la informática, junto con la experiencia adquirida en los empleos he podido obtener conocimientos tales como:
+## About me
+Since I was a child I have been interested in the world of computer science and ICT, I am a student of Information Systems Engineering, with knowledge in Salesforce and BigData.
+In my academic training I have had the opportunity to face projects related to the most demanded technologies in computer science, along with the experience gained in the jobs I have been able to obtain knowledge such as:
 
--Lenguajes de programación mas demandados (SQL, Python, Java, C++/C) :dizzy:
+-Most demanded programming languages (SQL, Python, Java, C++/C) :dizzy:
 
--Habilidades con CRMs como Salesforce :mechanical_arm:
+-Skills with CRMs such as Salesforce :mechanical_arm:
 
--Conocimientos de desarrollo y almacenamiento en la nube :star2:
+-Knowledge of cloud development and storage :star2:
 
--Procesamiento y Análisis de datos :rainbow:
+-Data Processing and Analytics :rainbow:
+
 
 
 <br>
